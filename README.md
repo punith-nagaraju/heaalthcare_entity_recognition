@@ -32,3 +32,5 @@ But, note that it is not explicitly mentioned in the dataset about the diseases 
  
 
 Suppose you have been asked to determine the disease name and its probable treatment from the dataset and list it out in the form of a table or a dictionary like this.
+
+![image](https://github.com/punith-nagaraju/healthcare_entity_recognition/assets/74168505/09e7a8cb-9502-417b-aee2-f3062ac79672)
